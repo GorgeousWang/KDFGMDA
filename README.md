@@ -11,3 +11,5 @@ Results: we propose a knowledge driven approach to fine-grained prediction of di
 ##Results
 ![输入图片说明](performance.png)
 
+![输入图片说明](KDFGMDA/prediction_results.png)
+
