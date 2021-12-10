@@ -5,6 +5,5 @@ KDFGMDA
 
 #### 软件架构
 
-![输入图片说明](WechatIMG17256.png)
-
-![输入图片说明](WechatIMG17253.png)
+![输入图片说明](imgsflowchat.png)
+![输入图片说明](imgsperformance.png)
