@@ -4,7 +4,6 @@ import numpy as np
 import tensorflow as tf
 import warnings
 
-# action参数可以设置为ignore，一位一次也不喜爱你是，once表示为只显示一次
 warnings.filterwarnings(action='ignore')
 
 from common import settings_reader, io, model_builder, optimizer_parameter_parser, evaluation, auxilliaries, auc
