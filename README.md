@@ -5,6 +5,8 @@ Motivation: increasing biological evidence indicated that miRNAs play a vital ro
 Results: we propose a knowledge driven approach to fine-grained prediction of disease-related miRNAs(KDFGMDA). Different from the previous methods, this method can finely predict the clear associations between miRNA and disease, such as upregulation(UR), downregulation(DR) or dysregulation(SR). Specifically, KDFGMDA extracts triple information from massive experimental data and existing datasets to construct a knowledge graph, and then trains a depth graph representation learning model based on knowledge graph to complete fine-grained prediction tasks. Experimental results show that KDFGMDA can predict the relationship between miRNA and disease accurately, which is of far-reaching significance for medical clinical research and early diagnosis, prevention and treatment of diseases. Additionally, case study on three type cancers further provide the effectiveness and feasibility of KGFGMDA to detect potential candidate miRNAs.
 
 #### Framework and Results
-
+##framework
 ![输入图片说明](imgsflowchat.png)
+
+##Results
 ![输入图片说明](imgsperformance.png)
